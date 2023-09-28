@@ -1,0 +1,15 @@
+
+// prisma migrate dev -- npx prisma migrate status
+
+//prisma migrate dev --name filename -- create migration  
+// Browse your data
+//   $ prisma studio   
+
+// Table schema change push commands :-
+//   1. prisma migrate dev 
+//   2. npx prisma generate
+//   3. prisma migrate dev --name filename
+//   4. npm i -g prisma@latest  
+//   5. npm i @prisma/client@latest 
+//   6. prisma migrate dev --create-only
+//   7. npx prisma migrate status
