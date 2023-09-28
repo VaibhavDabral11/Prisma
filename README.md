@@ -11,3 +11,4 @@
 
 // prisma migrate dev -- push the latest changes
 //prisma migrate dev --name filename -- create migration     
+https://www.prisma.io/docs/reference/api-reference/prisma-client-reference 
